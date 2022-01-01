@@ -2,9 +2,9 @@
 ---
 ## I'm on my way to become a Python web developer!!
 
-- 💚 Im learning everything at Platzi, documentations, and challenging myself in Hackerrank.
-- 🍞 I’m currently working as a C# developer at the supermarket industry.
-- 🏁 2021 Goals: Get a better income and participate in a lot of projects that challenge my abilities and make me grow.
+- 💚 I'm learning about everything at Platzi, documentations, and challenging myself in [HackerRank](https://www.hackerrank.com/Mark4nov).
+- 🍞 I'm currently working as a C # developer at a supermarket.
+- 🏁 2022 Goals: Get a better income and participate in more projects.
 - 💥 Random fact: I love to draw and make my own icecream at home!
 
 ### Connect with me:
