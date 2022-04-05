@@ -33,9 +33,10 @@
 
 ---
 
-### 📕 My Current learning path:
+### 📕 My Current learning paths:
 
 - [PLATZI - Backend development with Python](https://platzi.com/backend-python/)
+- [PLATZI - Game development](https://platzi.com/videojuegos/)
 
 ➡️ [All my certifications...](https://www.linkedin.com/in/jes%C3%BAs-marcano-32a0061b8/details/certifications/)
 
