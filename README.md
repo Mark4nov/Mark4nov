@@ -1,11 +1,11 @@
 ### Hi there, I'm Jesús Marcano - [Mark4nov] 👋 
 ---
-## I'm on my way to become a Python web developer!!
+## I'm on my way to become a C# Master!!
 
-- 💚 I'm learning about everything at Platzi, documentations, and challenging myself in [HackerRank](https://www.hackerrank.com/Mark4nov).
-- 🍞 I'm currently working as a C # developer at a supermarket.
-- 🏁 2022 Goals: Get a better income and participate in more projects.
-- 💥 Random fact: I love to draw and make my own icecream at home!
+- 💚 I'm learning about everything at Platzi, Books, and challenging myself in [HackerRank](https://www.hackerrank.com/Mark4nov).
+- 🍞 I'm currently working as a C# developer.
+- 🏁 2023 Goals: Update my knowledge about C# and become a better developer at it.
+- 💥 Random fact: I sell icecream in the office.
 
 ### Connect with me:
 
