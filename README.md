@@ -2,10 +2,8 @@
 ---
 ## I'm on my way to become a C# Master!!
 
-- 💚 I'm learning about everything at Platzi, Books, and challenging myself in [HackerRank](https://www.hackerrank.com/Mark4nov).
 - 🍞 I'm currently working as a C# developer.
-- 🏁 2023 Goals: Update my knowledge about C# and become a better developer at it.
-- 💥 Random fact: I sell icecream in the office.
+- 💥 Random fact: I sell homemade icecream in the office.
 
 ### Connect with me:
 
